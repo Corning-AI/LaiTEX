@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/logo.png" alt="LaiTEX Logo" width="200"/>
+</div>
+
 # LaiTEX
 
 **Transform Natural Language into Professional LaTeX Documents**
